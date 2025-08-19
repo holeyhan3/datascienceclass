@@ -19,6 +19,8 @@ spring_2022/lab_2/data/worldcup-clean.csv
 ssh-keys/*
 **/*.pem
 *.ipynb
+*.csv
+*.xlsx
 
 # sp24 lab 1
 **/venv/
